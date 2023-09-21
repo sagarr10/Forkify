@@ -19,5 +19,11 @@
     "core-js": "^3.32.2",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.0"
-  }
+  },
+  "plugins": [
+    {
+      "name": "preset-default"
+    },
+    "cleanupIDs"
+  ]
 }
